@@ -9,9 +9,9 @@ View the demo: http://neeltjechanterie.be/processwire/
 2. Footer » foot.php
 3. Home » home.php
 4. About » about-page.php
-  4.1 Team » member-page.php
+  * Team » member-page.php
 5. Blog » blog.php
-5.1 Blog post » blog-post.php
+  * Blog post » blog-post.php
 6. Contact » contact-page.php
 7. Basic » basic-page.php
 
