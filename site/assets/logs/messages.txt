@@ -1,0 +1,1 @@
+2017-10-06 00:09:58	admin	http://www.neeltjechanterie.be/processwire/processwire/blog/	Updating schema version of 'blog_comments' from  to 6
