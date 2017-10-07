@@ -9,11 +9,11 @@ View the demo: http://neeltjechanterie.be/processwire/
 2. Footer » foot.php
 3. Home » home.php
 4. About » about-page.php
-  * Team » member-page.php
-5. Blog » blog.php
-  * Blog post » blog-post.php
-6. Contact » contact-page.php
-7. Basic » basic-page.php
+5. Team » member-page.php
+6. Blog » blog.php
+7. Blog post » blog-post.php
+8. Contact » contact-page.php
+9. Basic » basic-page.php
 
 
 ## Custom fields used
