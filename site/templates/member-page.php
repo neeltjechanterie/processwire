@@ -1,6 +1,6 @@
 <?php include('./_head.php'); // include header markup ?>
 
-<!-- DEFAULT CONTENT -->
+<!-- MEMBER CONTENT -->
 <div class="uk-section team">
 	<div class="uk-container uk-container-medium uk-margin">
 		<h1><?php echo $page->get('headline|title'); ?></h1>

@@ -1,6 +1,6 @@
 <?php include('./_head.php'); // include header markup ?>
 
-<!-- DEFAULT CONTENT -->
+<!-- ABOUT CONTENT -->
 <div class="uk-section">
 	<div class="uk-container uk-container-medium uk-margin">
 		<h1><?php echo $page->get('headline|title'); ?></h1>
@@ -8,12 +8,15 @@
 		<?php echo $page->body; ?>
 	</div>
 </div>
+<!-- END ABOUT CONTENT -->
 
 <!-- RULER -->
 <div class="uk-container uk-container-medium uk-margin">
 	<hr class="uk-divider-icon">
 </div>
+<!-- END RULER -->
 
+<!-- TEAM - ABOUT CHILDREN -->
 <div class="uk-section">
 	<div class="uk-container uk-container-medium uk-margin">
 		<h1 style="text-align: center;">Team</h1><br>
@@ -37,7 +40,7 @@
 
 		</div>
 	</div>
-
+<!-- END TEAM - ABOUT CHILDREN -->
 
 <?php
 	// render navigation to child pages

@@ -2,7 +2,7 @@
 
 include('./_head.php'); // include header markup ?>
 
-<!-- DEFAULT CONTENT -->
+<!-- CONTACT CONTENT -->
 <div class="uk-section">
 	<div class="uk-container uk-container-medium uk-margin contact-page">
 		<h1><?php echo $page->get('headline|title'); ?></h1>

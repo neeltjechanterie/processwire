@@ -9,7 +9,8 @@ include('./_head.php'); // include header markup
 
 ?>
 
-<?php   	//CALL THE MODULE - MarkupBlog
+<?php
+  //CALL THE MODULE - MarkupBlog
   $blog = $modules->get("MarkupBlog");
 
   $limit = $page->blog_quantity;

@@ -36,8 +36,10 @@
 	<div class="uk-container uk-container-medium uk-margin">
 		<hr class="uk-divider-icon">
 	</div>
+	<!-- END RULER -->
 
-	<?php   	//CALL THE MODULE - MarkupBlog
+	<?php
+		//CALL THE MODULE - MarkupBlog
 		$blog = $modules->get("MarkupBlog");
 
 		$limit = $page->blog_quantity;
@@ -48,12 +50,9 @@
 		$out = '';
 		$oddLoop = false;
 
-
-
-					//$date = $blog->formatDate($item->blog_date);
-					//$out .= "<li><span class='date'>$date</span> <a href='{$item->url}'>{$item->title}</a></li>";
-					//$parent = $item->parent; ?>
-
+		//$date = $blog->formatDate($item->blog_date);
+		//$out .= "<li><span class='date'>$date</span> <a href='{$item->url}'>{$item->title}</a></li>";
+		//$parent = $item->parent; ?>
 
 		<!-- NEWS BLOCKS -->
 		<div class="uk-section">
